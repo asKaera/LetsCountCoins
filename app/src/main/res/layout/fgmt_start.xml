@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:id="@+id/start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:context="cc.testme.countcoins.StartFragment"
+                android:layout_gravity="center">
+
+
+    <Button
+            style="@style/button"
+            android:text="@string/button_start_game"
+            android:id="@+id/button_start_game"
+            android:background="@drawable/button"
+            />
+
+</RelativeLayout>

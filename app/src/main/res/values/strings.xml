@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coins</string>
+    <string name="button_done">DONE</string>
+    <string name="button_new_game">NEW GAME</string>
+    <string name="button_finish_game">FINISH GAME</string>
+    <string name="textview">TextView</string>
+    <string name="button_start_game">START</string>
+    <string name="price">$</string>
+    <string name="coin5">5¢</string>
+    <string name="coin10">10¢</string>
+    <string name="coin25">25¢</string>
+    <string name="coin100">$1</string>
+    <string name="description">Make the following price, you can use coins more then once</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="end_game">END GAME</string>
+    <string name="dollar">$</string>
+
+</resources>
