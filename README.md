@@ -1,5 +1,5 @@
 # Let's Count Coins
-LetsCountCoins is a simple and intuitive app that helps children to practise counting coins.
+LetsCountCoins is a simple and intuitive Android app that helps children to practise counting coins.
 
 The amount to count is from 5¢ to $2.00. Coin nominals are 5¢, 10¢, 25¢, $1. The app doesn't give hints that make the game a little bit harder.
 
